@@ -1,5 +1,4 @@
 # Undergraduation_Thesis
-This repository contains the python notebooks for my thesis. 
 
 Early detection of any disease is the key step towards recovery. 
 Due to environmental and other reasons, breast cancer among women is increasing rapidly. And due to the shortage of expert health professionals, 
